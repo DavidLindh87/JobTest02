@@ -1,0 +1,2 @@
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest02\SectraAssignment02\Debug\SectraAssignment02.exe
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest02\SectraAssignment02\Debug\SectraAssignment02.pdb
