@@ -1,2 +1,5 @@
-﻿  Main.cpp
+﻿  Input.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest02\SectraAssignment02\Input.cpp(133): warning C4715: 'Input::Get_Input': not all control paths return a value
   SectraAssignment02.vcxproj -> C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest02\SectraAssignment02\Debug\SectraAssignment02.exe

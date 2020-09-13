@@ -11,13 +11,18 @@ private:
 
 	string reg;
 	string operation;
-	double input_number;
+	string input_string;
+	double input_double;
 
 public:
 
 	Input();
 
-	string Get_Input();
+	void Clear();
+
+	int Get_Input();
+
+	string Get_InputTest(); // for saving old code
 
 	void Check_Input();
 
@@ -26,6 +31,8 @@ public:
 	string Get_Operation();
 
 	double Get_Number();
+
+	string Get_Target_Register();
 
 };
 
